@@ -1,2 +1,11 @@
-# EVCircularProgressView
-大兵哥整理---一款仿照苹果下载的进度的圆环
+EVCircularProgressView
+======================
+
+An iOS 7-inspired circular progress view
+
+![screenshot](Screenshot.png)
+
+Installation
+------------
+
+Simply copy EVCircularProgressView.h and .m to your Xcode project and enable ARC.
